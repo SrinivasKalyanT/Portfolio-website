@@ -10,6 +10,7 @@ import Todo_app from '../assets/projects/todo_pic.png'
 import tindog_app from '../assets/projects/tindog_pic.png'
 import ristorante from '../assets/projects/ristorent_pic.png'
 import backend from '../assets/projects/backend_pic.png'
+import textclassification from '../assets/projects/text_classification.jpeg'
 
 export const data=[
     {
@@ -30,17 +31,18 @@ export const data=[
         image:Skin_Disease_Deep_Learning,
         github:"https://colab.research.google.com/drive/18iIwYZxa9iuXJJ1DwO82avxbHTGx9oNl?usp=sharing",
     },
+    // {
+    //     id:2,
+    //     name:"Deep Learning Dermatology: Harnessing AI for Skin Disease Classification",
+    //     image:Skin_Disease_Deep_Learning,
+    //     github:"https://colab.research.google.com/drive/18iIwYZxa9iuXJJ1DwO82avxbHTGx9oNl?usp=sharing",
+    // },
+
     {
         id:4,
-        name:"Sentiment Analysis on Movie Reviews",
-        image:Sentiment_Analysis,
-        github:"https://colab.research.google.com/drive/1gxxtJgq-JsrgprJMGT69idS3GFLA4uZA?usp=sharing",
-    },
-    {
-        id:5,
-        name:"Resume Category Classification",
+        name:"BBC-News-Multi-class-classification",
         image:Resume_Category,
-        github:"https://colab.research.google.com/drive/1I1TkkHd6t9fjhmaNTpNT7nijnBNURu-B?usp=sharing",
+        github:"https://github.com/SrinivasKalyanT/BBC-News-Multi-class-classification",
     },
     // {
     //     id:6,
@@ -49,16 +51,15 @@ export const data=[
     //     github:"https://github.com/SrinivasKalyanT/Medical_Prediction_ML",
     // },
     {
-        id:7,
+        id:5,
+        name:"Sentiment Analysis on Movie Reviews",
+        image:Sentiment_Analysis,
+        github:"https://colab.research.google.com/drive/1gxxtJgq-JsrgprJMGT69idS3GFLA4uZA?usp=sharing",
+    },
+    {
+        id:6,
         name:"Fire Fighting Bot",
         image:Fire_Fighting_Bot,
         github:"https://github.com/SrinivasKalyanT/Fire_Fighting_Bot",
     },
-    // {
-    //     id:7,
-    //     name:"Transformers",
-    //     image:Transformers_NLP,
-    //     github:"https://github.com/SrinivasKalyanT/Transformers",
-    // },
-
 ]
