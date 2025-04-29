@@ -13,7 +13,7 @@ import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Transformers from '../assets/Transformers.png';
-import fastapi from '../assets/Fastapi.png';
+import Fastapi from '../assets/Fastapi.png';
 import Docker from '../assets/docker.jpeg';
 const Skills = () => {
   return (
@@ -47,7 +47,7 @@ const Skills = () => {
                   <p className='my-4'>TRANSFORMERS</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
-                  <img className='w-20 mx-auto' src={fastapi} alt="HTML icon" />
+                  <img className='w-20 mx-auto' src={Fastapi} alt="HTML icon" />
                   <p className='my-4'>FASTAPI</p>
               </div>
               <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
