@@ -13,7 +13,7 @@ import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
 import Transformers from '../assets/Transformers.png';
-import fastapi from '../>assets/Fastapi.png';
+import fastapi from '../assets/Fastapi.png';
 import Docker from '../assets/docker.jpeg';
 const Skills = () => {
   return (
