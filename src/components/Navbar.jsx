@@ -118,7 +118,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='mailto: srinivaskalyan.t20@iiits.in'
+              href='mailto: kalyan18122002@gmail.com'
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -126,7 +126,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1FHNgRdRo8aG5X6bj4y2sVv0jmjpmr-ht/view'
+              href='https://drive.google.com/file/d/1FIwyuT0Q7YqX6R7wc1myxQHgW8Og5muQ/view?usp=sharing'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>

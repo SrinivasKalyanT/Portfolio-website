@@ -14,45 +14,51 @@ import backend from '../assets/projects/backend_pic.png'
 export const data=[
     {
         id:1,
+        name:"Automated Text Classification",
+        image:Transformers_NLP,
+        github:"https://github.com/SrinivasKalyanT/Text-Classification-LLMs",
+    },
+    {
+        id:2,
         name:"Detection of COVID-19 using Chest X-Ray Images",
         image:Detection_COVID,
         github:"https://github.com/SrinivasKalyanT/Detection_COVID-19",
     },
     {
-        id:2,
+        id:3,
         name:"Deep Learning Dermatology: Harnessing AI for Skin Disease Classification",
         image:Skin_Disease_Deep_Learning,
         github:"https://colab.research.google.com/drive/18iIwYZxa9iuXJJ1DwO82avxbHTGx9oNl?usp=sharing",
     },
     {
-        id:3,
+        id:4,
         name:"Sentiment Analysis on Movie Reviews",
         image:Sentiment_Analysis,
         github:"https://colab.research.google.com/drive/1gxxtJgq-JsrgprJMGT69idS3GFLA4uZA?usp=sharing",
     },
     {
-        id:4,
+        id:5,
         name:"Resume Category Classification",
         image:Resume_Category,
         github:"https://colab.research.google.com/drive/1I1TkkHd6t9fjhmaNTpNT7nijnBNURu-B?usp=sharing",
     },
+    // {
+    //     id:6,
+    //     name:"Medical Insurance Prediction using ML",
+    //     image:Medical_Insurance,
+    //     github:"https://github.com/SrinivasKalyanT/Medical_Prediction_ML",
+    // },
     {
-        id:5,
-        name:"Medical Insurance Prediction using ML",
-        image:Medical_Insurance,
-        github:"https://github.com/SrinivasKalyanT/Medical_Prediction_ML",
-    },
-    {
-        id:6,
+        id:7,
         name:"Fire Fighting Bot",
         image:Fire_Fighting_Bot,
         github:"https://github.com/SrinivasKalyanT/Fire_Fighting_Bot",
     },
-    {
-        id:7,
-        name:"Transformers",
-        image:Transformers_NLP,
-        github:"https://github.com/SrinivasKalyanT/Transformers",
-    },
+    // {
+    //     id:7,
+    //     name:"Transformers",
+    //     image:Transformers_NLP,
+    //     github:"https://github.com/SrinivasKalyanT/Transformers",
+    // },
 
 ]

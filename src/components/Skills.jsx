@@ -12,8 +12,9 @@ import Node from '../assets/node.png';
 import FireBase from '../assets/firebase.png';
 import GitHub from '../assets/github.png';
 import Tailwind from '../assets/tailwind.png';
-import Mongo from '../assets/mongo.png';
-
+import Transformers from '../assets/Transformers.png';
+import fastapi from '../>assets/Fastapi.png';
+import Docker from '../assets/docker.jpeg';
 const Skills = () => {
   return (
     <div name='skills' className='w-full h-screen bg-[#0a192f] text-gray-300'>
@@ -37,9 +38,25 @@ const Skills = () => {
                   <img className='w-20 mx-auto' src={Python} alt="HTML icon" />
                   <p className='my-4'>Python</p>
               </div>
-              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+              {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={SQL_logo} alt="HTML icon" />
                   <p className='my-4'>SQL</p>
+              </div> */}
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
+                  <p className='my-4'>GITHUB</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Transformers} alt="HTML icon" />
+                  <p className='my-4'>TRANSFORMERS</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={FastApi} alt="HTML icon" />
+                  <p className='my-4'>FASTAPI</p>
+              </div>
+              <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                  <img className='w-20 mx-auto' src={Docker} alt="HTML icon" />
+                  <p className='my-4'>DOCKER</p>
               </div>
               {/* <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                   <img className='w-20 mx-auto' src={GitHub} alt="HTML icon" />
