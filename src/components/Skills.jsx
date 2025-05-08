@@ -10,7 +10,7 @@ import SQL_logo from '../assets/SQL_logo.png'
 import ReactImg from '../assets/react.png';
 import Node from '../assets/node.png';
 import FireBase from '../assets/firebase.png';
-import GitHub from '../assets/github.png';
+import GitHub from '../assets/Git_skill.png';
 import Tailwind from '../assets/tailwind.png';
 import Transformers from '../assets/Transformers.png';
 import Fastapi from '../assets/Fastapi.png';
