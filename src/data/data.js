@@ -11,6 +11,7 @@ import tindog_app from '../assets/projects/tindog_pic.png'
 import ristorante from '../assets/projects/ristorent_pic.png'
 import backend from '../assets/projects/backend_pic.png'
 import textclassification from '../assets/projects/text_classification.jpeg'
+import textclassificationbbc from '../assets/projects/BBC_NEWS.jpeg'
 
 export const data=[
     {
@@ -41,7 +42,7 @@ export const data=[
     {
         id:4,
         name:"BBC-News-Multi-class-classification",
-        image:Resume_Category,
+        image:textclassificationbbc,
         github:"https://github.com/SrinivasKalyanT/BBC-News-Multi-class-classification",
     },
     // {
