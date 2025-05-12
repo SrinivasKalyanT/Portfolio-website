@@ -12,6 +12,7 @@ import ristorante from '../assets/projects/ristorent_pic.png'
 import backend from '../assets/projects/backend_pic.png'
 import textclassification from '../assets/projects/text_classification.jpeg'
 import textclassificationbbc from '../assets/projects/BBC_NEWS.jpeg'
+import rag_imp from '../assets/projects/RAG_Implementation.png'
 
 export const data=[
     {
@@ -22,12 +23,18 @@ export const data=[
     },
     {
         id:2,
+        name:"Retrieval-Augmented-Generation-RAG-for-PDF-Document-Search",
+        image:rag_imp,
+        github:"https://github.com/SrinivasKalyanT/Retrieval-Augmented-Generation-RAG-for-PDF-Document-Search",
+    },
+    {
+        id:3,
         name:"Detection of COVID-19 using Chest X-Ray Images",
         image:Detection_COVID,
         github:"https://github.com/SrinivasKalyanT/Detection_COVID-19",
     },
     {
-        id:3,
+        id:4,
         name:"Deep Learning Dermatology: Harnessing AI for Skin Disease Classification",
         image:Skin_Disease_Deep_Learning,
         github:"https://colab.research.google.com/drive/18iIwYZxa9iuXJJ1DwO82avxbHTGx9oNl?usp=sharing",
@@ -38,13 +45,6 @@ export const data=[
     //     image:Skin_Disease_Deep_Learning,
     //     github:"https://colab.research.google.com/drive/18iIwYZxa9iuXJJ1DwO82avxbHTGx9oNl?usp=sharing",
     // },
-
-    {
-        id:4,
-        name:"BBC-News-Multi-class-classification",
-        image:textclassificationbbc,
-        github:"https://github.com/SrinivasKalyanT/BBC-News-Multi-class-classification",
-    },
     // {
     //     id:6,
     //     name:"Medical Insurance Prediction using ML",
@@ -53,9 +53,9 @@ export const data=[
     // },
     {
         id:5,
-        name:"Sentiment Analysis on Movie Reviews",
-        image:Sentiment_Analysis,
-        github:"https://colab.research.google.com/drive/1gxxtJgq-JsrgprJMGT69idS3GFLA4uZA?usp=sharing",
+        name:"BBC-News-Multi-class-classification",
+        image:textclassificationbbc,
+        github:"https://github.com/SrinivasKalyanT/BBC-News-Multi-class-classification",
     },
     {
         id:6,
