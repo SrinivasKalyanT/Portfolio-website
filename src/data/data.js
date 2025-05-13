@@ -13,7 +13,7 @@ import backend from '../assets/projects/backend_pic.png'
 import textclassification from '../assets/projects/text_classification.jpeg'
 import textclassificationbbc from '../assets/projects/BBC_NEWS.jpeg'
 import rag_imp from '../assets/projects/RAG_Implementation.png'
-
+import Gen_AI from '../assets/projects/GEN_AI.jpeg'
 export const data=[
     {
         id:1,
@@ -29,12 +29,18 @@ export const data=[
     },
     {
         id:3,
+        name:"Generative AI",
+        image:Gen_AI,
+        github:"https://github.com/SrinivasKalyanT/Generative_AI",
+    },
+    {
+        id:4,
         name:"Detection of COVID-19 using Chest X-Ray Images",
         image:Detection_COVID,
         github:"https://github.com/SrinivasKalyanT/Detection_COVID-19",
     },
     {
-        id:4,
+        id:5,
         name:"Deep Learning Dermatology: Harnessing AI for Skin Disease Classification",
         image:Skin_Disease_Deep_Learning,
         github:"https://colab.research.google.com/drive/18iIwYZxa9iuXJJ1DwO82avxbHTGx9oNl?usp=sharing",
@@ -52,15 +58,15 @@ export const data=[
     //     github:"https://github.com/SrinivasKalyanT/Medical_Prediction_ML",
     // },
     {
-        id:5,
+        id:6,
         name:"BBC-News-Multi-class-classification",
         image:textclassificationbbc,
         github:"https://github.com/SrinivasKalyanT/BBC-News-Multi-class-classification",
     },
-    {
-        id:6,
-        name:"Fire Fighting Bot",
-        image:Fire_Fighting_Bot,
-        github:"https://github.com/SrinivasKalyanT/Fire_Fighting_Bot",
-    },
+    // {
+    //     id:6,
+    //     name:"Fire Fighting Bot",
+    //     image:Fire_Fighting_Bot,
+    //     github:"https://github.com/SrinivasKalyanT/Fire_Fighting_Bot",
+    // },
 ]
