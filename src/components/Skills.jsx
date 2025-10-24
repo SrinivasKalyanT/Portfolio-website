@@ -1,5 +1,5 @@
 import GitHub from '../assets/Git_skill.png';
-import Transformers from '../assets/Transformers_img.png';
+import Transformers from '../assets/Transformer_img.png';
 import Fastapi from '../assets/Fastapi.png';
 import Docker from '../assets/docker.jpeg';
 import STT from '../assets/STT.png';
