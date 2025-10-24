@@ -19,7 +19,7 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[50px] flex justify-between items-center px-4 text-pink-600 bg-[#0a192f] font-semi-bold text-2xl'>
       <div>
-        <img className='pt-200 pr-10' src={Logo} alt='Logo Image' style={{ width: '100px', height:'40px'}} />
+        <img className='pt-200 pr-10' src={Logo} alt='Logo Image' style={{ width: '100px', height: '40px' }} />
         {/* <p className='text-pink-600 text-2xl sm:text-2xl font-bold mx-5' >Vudayana Rohith</p> */}
       </div>
 
@@ -126,7 +126,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://drive.google.com/file/d/1pqMx-qTbhHNyYLSx52Nwx8lk4esDIx9D/view?usp=sharing'
+              href='https://drive.google.com/file/d/10V5EeMW3W5Nb8-pzTVDj44ChImF2byFU/view?usp=sharing'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
