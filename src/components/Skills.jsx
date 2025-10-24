@@ -3,9 +3,9 @@ import Transformers from '../assets/Transformer_img.png';
 import Fastapi from '../assets/Fastapi.png';
 import Docker from '../assets/docker.jpeg';
 import STT from '../assets/STT.png';
-import TTS from '../assets/TTS.png';
+import TTS from '../assets/tts.png';
 import langchain from '../assets/langchain.png';
-import langgraph from '../assets/langgraph.png';
+import langgraph from '../assets/langgraph.jpg';
 const Skills = () => {
   return (
     <div name='skills' className='w-full h-screen bg-[#0a192f] text-gray-300'>
